@@ -1,22 +1,22 @@
-# Γεια, είμαι ο Βασίλης 👋
+# Hi, I'm Vasilis 👋
 
-### Informatics student @ University of Piraeus | Python & Java Developer in progress
+### Informatics student @ University of Piraeus | Aspiring Python & Java Developer
 
-Χτίζω **ένα project κάθε δύο εβδομάδες** και μοιράζομαι δημόσια ό,τι μαθαίνω (#BuildInPublic).
-Με ενδιαφέρουν τα **automation scripts**, οι **backend / enterprise εφαρμογές**, τα **Android apps** και το **game development**.
+I'm building **one project every two weeks** and sharing what I learn along the way (#BuildInPublic).
+I'm interested in **automation scripts**, **backend / enterprise applications**, **Android apps** and **game development**.
 
 ---
 
-## 🎯 Στόχοι για το 2026–2027
-- [x] Στήσιμο GitHub portfolio
-- [ ] 5 ολοκληρωμένα projects (Python, Java, Android, Pygame, MATLAB)
-- [ ] Πρώτο REST API με Spring Boot
-- [ ] Πρώτη συνεισφορά σε open-source project
-- [ ] Internship ως Backend / Software Engineer
+## 🎯 Goals for 2026–2027
+- [x] Set up my GitHub portfolio
+- [ ] Complete 5 projects (Python, Java, Android, Pygame, MATLAB)
+- [ ] Build my first REST API with Spring Boot
+- [ ] Make my first open-source contribution
+- [ ] Land an internship as a Backend / Software Engineer
 
 ## 🛠️ Tech Stack
 
-**Γλώσσες**
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -24,7 +24,7 @@
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Frameworks & Βιβλιοθήκες**
+**Frameworks & Libraries**
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -32,7 +32,7 @@
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-**Εργαλεία**
+**Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
@@ -42,25 +42,25 @@
 
 ## 🚀 Projects
 
-| Project | Περιγραφή | Tech |
+| Project | Description | Tech |
 |---|---|---|
-| Smart File Organizer | Αυτόματη οργάνωση αρχείων + email report | Python |
-| Library Manager CLI | Enterprise-style CLI με βάση δεδομένων | Java, Maven, SQLite |
-| Habit Tracker | Android app για καθημερινές συνήθειες | Java, Android, Room |
-| Space Dodger | 2D arcade παιχνίδι | Python, Pygame |
-| Athens Air Quality | Ανάλυση & γραφήματα δεδομένων | MATLAB, Python |
+| Smart File Organizer | Automatically organizes files and sends an email report | Python |
+| Library Manager CLI | Enterprise-style CLI app backed by a database | Java, Maven, SQLite |
+| Habit Tracker | Android app for tracking daily habits | Java, Android, Room |
+| Space Dodger | 2D arcade game | Python, Pygame |
+| Athens Air Quality | Data analysis & visualization | MATLAB, Python |
 
-*(Σε εξέλιξη: τα links προστίθενται καθώς ολοκληρώνεται κάθε project.)*
+*(In progress: links will be added as each project is completed.)*
 
-## 📈 Τι μαθαίνω τώρα
+## 📈 Currently Learning
 - 🔨 Spring Boot & REST APIs
-- 📚 Data Structures & Algorithms σε Java
+- 📚 Data Structures & Algorithms in Java
 - 🧪 Unit testing (JUnit, pytest)
 
-## 🌍 Γλώσσες
-🇬🇷 Ελληνικά (μητρική) · 🇬🇧 English (C2) · 🇪🇸 Español (basic)
+## 🌍 Languages
+🇬🇷 Greek (native) · 🇬🇧 English (C2) · 🇪🇸 Spanish (basic)
 
-## 📫 Επικοινωνία
+## 📫 Contact
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:basilis.sakellar@gmail.com)
 
 ![Profile views](https://komarev.com/ghpvc/?username=vasilis-sakellariou&color=blue)
