@@ -44,7 +44,7 @@ I'm interested in **automation scripts**, **backend / enterprise applications**,
 
 | Project | Description | Tech |
 |---|---|---|
-| Smart File Organizer | Automatically organizes files and sends an email report | Python |
+| [Smart File Organizer](https://github.com/vasilis-sakellariou/smart-file-organizer) ✅ | CLI tool that safely sorts files into folders, with dry-run, config file and logging | Python |
 | Library Manager CLI | Enterprise-style CLI app backed by a database | Java, Maven, SQLite |
 | Habit Tracker | Android app for tracking daily habits | Java, Android, Room |
 | Space Dodger | 2D arcade game | Python, Pygame |
